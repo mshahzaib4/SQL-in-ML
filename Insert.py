@@ -47,3 +47,5 @@ def menu(self):
 if __name__ == "__main__":
     insert_obj = insert()
     insert_obj.updatemenu()
+
+    
